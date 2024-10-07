@@ -1,0 +1,4 @@
+  Title:   Dimensionality Reduction Techniques  
+  Content:    
+Dimensionality reduction is the process of reducing the number of input variables in a dataset while retaining essential information. This is useful for visualization, speeding up algorithms, and avoiding the curse of dimensionality.  
+Principal Component Analysis (PCA) is one of the most common techniques, reducing dimensions by projecting data onto new axes that capture the most variance. Another technique, t-SNE, is often used for visualizing high-dimensional data by mapping it into a lower-dimensional space.

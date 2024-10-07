@@ -1,0 +1,4 @@
+  Title:   An Overview of Decision Trees  
+  Content:    
+Decision trees are a popular supervised learning method used for both classification and regression tasks. They work by recursively splitting the data into subsets based on the most informative features, resulting in a tree-like structure.  
+Each internal node in a decision tree represents a decision based on a feature, and each leaf node represents a prediction. Decision trees are easy to interpret but can suffer from overfitting, especially with noisy data. Techniques like pruning and ensemble methods, such as random forests, help mitigate these issues.

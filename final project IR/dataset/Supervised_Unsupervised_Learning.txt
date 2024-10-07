@@ -1,0 +1,4 @@
+  Title:   Supervised vs Unsupervised Learning  
+  Content:    
+In supervised learning, models are trained using labeled data, meaning each input is paired with the correct output. This allows the model to learn by example and make predictions on new data. Common supervised learning algorithms include decision trees, support vector machines, and neural networks.  
+Unsupervised learning, on the other hand, involves working with unlabeled data, and the goal is to uncover hidden patterns. Clustering and association algorithms like k-means and DBSCAN are often used. Each method is suitable for different types of problems, such as classification, regression, or anomaly detection.

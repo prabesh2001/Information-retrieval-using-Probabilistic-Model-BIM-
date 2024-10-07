@@ -1,0 +1,4 @@
+  Title:Introduction to Support Vector Machines  
+  Content:    
+Support Vector Machines (SVMs) are a powerful supervised learning algorithm primarily used for classification tasks. SVMs work by finding the optimal hyperplane that best separates different classes of data.  
+In cases where the data is not linearly separable, SVMs use kernel functions to project the data into a higher-dimensional space. SVMs are known for their effectiveness in high-dimensional spaces and are widely used in text classification, image recognition, and bioinformatics.
