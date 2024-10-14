@@ -1,0 +1,4 @@
+  Title:   Reinforcement Learning: A Beginner's Guide  
+  Content:    
+Reinforcement learning (RL) is a type of machine learning where agents learn to make decisions by interacting with an environment. The agent takes actions, receives feedback in the form of rewards or penalties, and adjusts its strategy to maximize cumulative rewards.  
+RL differs from supervised learning as there is no predefined correct answer. Key components of RL include states, actions, and rewards. Famous applications include AlphaGo, where RL helped the model master the game of Go, and robotic systems where machines learn to perform tasks autonomously.

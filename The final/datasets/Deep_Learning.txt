@@ -1,0 +1,4 @@
+  Title:   Introduction to Deep Learning  
+  Content:    
+Deep learning is a subset of machine learning that uses neural networks with multiple layers to model complex patterns in data. It excels at tasks like image and speech recognition, where traditional algorithms struggle. Deep learning models, such as convolutional neural networks (CNNs) and recurrent neural networks (RNNs), can learn from large datasets and improve their performance over time by adjusting internal parameters.  
+Applications range from self-driving cars to medical image analysis, making deep learning one of the most impactful technologies today.

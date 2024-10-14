@@ -1,0 +1,5 @@
+  Title:   Clustering Techniques in Machine Learning  
+  Content:    
+Clustering is an unsupervised learning method used to group data points that share similar features. Unlike classification, clustering does not require labeled data, making it useful for exploratory data analysis.  
+Popular clustering algorithms include k-means, which partitions data into k clusters, and DBSCAN, which can identify arbitrarily shaped clusters. Clustering has applications in customer segmentation, anomaly detection, and image compression, helping discover hidden patterns in large datasets.
+

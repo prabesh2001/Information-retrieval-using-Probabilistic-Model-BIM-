@@ -1,0 +1,4 @@
+  Title:   Time Series Analysis in Machine Learning  
+  Content:    
+Time series analysis involves studying data points collected or recorded at successive points in time. Machine learning models for time series data predict future values based on historical trends. Techniques such as ARIMA, Holt-Winters, and Long Short-Term Memory (LSTM) networks are commonly used for time series forecasting.  
+Applications include stock market analysis, weather prediction, and demand forecasting in supply chain management. Challenges in time series analysis include seasonality, trends, and autocorrelation in the data.

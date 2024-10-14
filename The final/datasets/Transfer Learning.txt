@@ -1,0 +1,4 @@
+Title:   Introduction to Transfer Learning  
+  Content:    
+Transfer learning is a machine learning technique where a model trained on one task is adapted to perform a different but related task. Instead of training a model from scratch, transfer learning leverages pre-trained models to save time, computational resources, and improve performance, particularly in situations with limited data.  
+A popular application of transfer learning is in image classification, where models like ResNet, pre-trained on large datasets like ImageNet, are fine-tuned for specific tasks like medical image diagnosis or object recognition in different domains.

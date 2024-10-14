@@ -1,0 +1,4 @@
+  Title:   Exploring Generative Adversarial Networks  
+  Content:    
+Generative Adversarial Networks (GANs) are a type of deep learning model used to generate new, synthetic data that resembles real data. GANs consist of two neural networks: a generator that creates new data, and a discriminator that evaluates whether the generated data is real or fake.  
+GANs have been used in various applications, from generating realistic images and videos to improving the quality of medical images. Despite their success, GANs are known for being difficult to train and sensitive to hyperparameter tuning.
